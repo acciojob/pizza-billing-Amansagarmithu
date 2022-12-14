@@ -13,7 +13,7 @@ public class Pizza {
             this.price = 300;
         }
         else{
-            this.price = 600;
+            this.price = 400;
         }
     }
 
